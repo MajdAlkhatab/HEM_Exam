@@ -19,9 +19,9 @@ The project demonstrates the **precision-recall tradeoff** in fault detection, w
 ## 📂 Repository Structure
 
 ```
-├── KNN v4.ipynb            # k-NN based anomaly detection
-├── USAD v3.ipynb           # Unsupervised anomaly detection model
-├── README.md               # Project overview
+├── KNN v4.ipynb            # k-Nearest Neighbors Algorithm
+├── USAD v3.ipynb           # UnSupervised Anomaly Detection Model
+├── README.md               # Project Overview
 ```
 ---
 
